@@ -3,6 +3,12 @@
 A real-time chat application built with **Socket.IO** and **Node.js**.
 
 ---
+# Screenshot
+![Chatapp Preview 1](Screenshot1.png)
+![Chatapp Preview 2](Screenshot2.png)
+![Chatapp Preview 2](Screenshot3.png)
+
+
 
 ## Prerequisites
 
